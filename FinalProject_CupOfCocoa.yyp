@@ -82,7 +82,7 @@
             "Key": "3a9668eb-9f73-4e39-8742-172b3f61ae88",
             "Value": {
                 "id": "5bfd0eaf-e064-4397-a216-7a8b8618b1bf",
-                "resourcePath": "objects\\object0\\object0.yy",
+                "resourcePath": "objects\\Player\\Player.yy",
                 "resourceType": "GMObject"
             }
         },
