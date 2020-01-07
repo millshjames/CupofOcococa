@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "e94b6810-beef-4dda-a65e-9169c93143c1",
+            "Value": {
+                "id": "13c07722-cd55-442c-abba-3e02f03e5de6",
+                "resourcePath": "sprites\\Gumdrop\\Gumdrop.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "5aeba4a7-4a7e-4243-9ad1-d37a6d8a43a4",
