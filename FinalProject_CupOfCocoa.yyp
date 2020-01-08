@@ -42,7 +42,7 @@
             "Key": "06cb40aa-2652-4370-aa50-17d8ebcd31a2",
             "Value": {
                 "id": "9982b017-c7f1-4624-bbb8-2cbaf5754f84",
-                "resourcePath": "sprites\\sprite2\\sprite2.yy",
+                "resourcePath": "sprites\\Elfman\\Elfman.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -116,6 +116,14 @@
                 "id": "62112b0e-15ae-48ef-a6a5-6202d57bbe8c",
                 "resourcePath": "views\\7c7d71f3-b323-4cc2-8dc3-d8ad5c4478a2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "94792307-30c3-44fe-a1ca-278281dd25f6",
+            "Value": {
+                "id": "ed0cde20-9848-46ca-9898-ef45ee3aecfc",
+                "resourcePath": "sprites\\sprite3\\sprite3.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
