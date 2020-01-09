@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "b4a93c31-4f11-4611-a535-3797b4746f31",
+            "Value": {
+                "id": "5a0769fb-08e3-4add-8222-3bc4eee33581",
+                "resourcePath": "sprites\\Fwosty\\Fwosty.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bea3282a-f04e-4afa-a77d-39ff9a7e7328",
             "Value": {
                 "id": "301dcf52-4370-4bb2-8e8d-d928c16c90aa",
