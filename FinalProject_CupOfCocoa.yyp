@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0707ae10-ae6b-4432-b2a0-26a889d8a68b",
+            "Value": {
+                "id": "8fb874fa-14ce-4e21-901c-1f945290dec7",
+                "resourcePath": "sprites\\Twee\\Twee.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0ba7dec6-5b8b-478a-a29e-d54600a85707",
             "Value": {
                 "id": "2c30492d-ab4e-49fb-804f-acfb70c13175",
