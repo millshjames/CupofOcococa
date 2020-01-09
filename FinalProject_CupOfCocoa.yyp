@@ -226,7 +226,7 @@
             "Key": "e94b6810-beef-4dda-a65e-9169c93143c1",
             "Value": {
                 "id": "13c07722-cd55-442c-abba-3e02f03e5de6",
-                "resourcePath": "sprites\\Gumdrop\\Gumdrop.yy",
+                "resourcePath": "sprites\\spr_gumdrop\\spr_gumdrop.yy",
                 "resourceType": "GMSprite"
             }
         },

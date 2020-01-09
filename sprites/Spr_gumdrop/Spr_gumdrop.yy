@@ -2,7 +2,7 @@
     "id": "e94b6810-beef-4dda-a65e-9169c93143c1",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "Gumdrop",
+    "name": "spr_gumdrop",
     "For3D": false,
     "HTile": false,
     "VTile": false,
