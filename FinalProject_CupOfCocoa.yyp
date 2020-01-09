@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "eb7e127a-8d81-42da-850a-60e9664afcc4",
+            "Value": {
+                "id": "500c4806-8874-41fc-8a05-246168df2264",
+                "resourcePath": "sprites\\LouisTest\\LouisTest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "eee5a71b-657d-470c-b51a-e24ee7b6260b",
             "Value": {
                 "id": "8ecf1d25-2ba5-4b0f-a961-4d62f0e90936",
