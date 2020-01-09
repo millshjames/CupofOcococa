@@ -42,7 +42,7 @@
             "Key": "06cb40aa-2652-4370-aa50-17d8ebcd31a2",
             "Value": {
                 "id": "9982b017-c7f1-4624-bbb8-2cbaf5754f84",
-                "resourcePath": "sprites\\Elfman\\Elfman.yy",
+                "resourcePath": "sprites\\spr_elfman\\spr_elfman.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -50,7 +50,7 @@
             "Key": "0707ae10-ae6b-4432-b2a0-26a889d8a68b",
             "Value": {
                 "id": "8fb874fa-14ce-4e21-901c-1f945290dec7",
-                "resourcePath": "sprites\\Twee\\Twee.yy",
+                "resourcePath": "sprites\\spr_Twee\\spr_Twee.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -82,7 +82,7 @@
             "Key": "26bac960-bfeb-45bf-ae39-c1bd5670f7b4",
             "Value": {
                 "id": "19cba718-59ce-4616-ad7c-28dd8e40e969",
-                "resourcePath": "sprites\\sprite1\\sprite1.yy",
+                "resourcePath": "sprites\\spr_sprite\\spr_sprite.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -98,7 +98,7 @@
             "Key": "3a9668eb-9f73-4e39-8742-172b3f61ae88",
             "Value": {
                 "id": "5bfd0eaf-e064-4397-a216-7a8b8618b1bf",
-                "resourcePath": "objects\\Player_obj\\Player_obj.yy",
+                "resourcePath": "objects\\obj_player\\obj_player.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -130,7 +130,7 @@
             "Key": "94792307-30c3-44fe-a1ca-278281dd25f6",
             "Value": {
                 "id": "ed0cde20-9848-46ca-9898-ef45ee3aecfc",
-                "resourcePath": "sprites\\Owl\\Owl.yy",
+                "resourcePath": "sprites\\spr_owl\\spr_owl.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -178,7 +178,7 @@
             "Key": "b4a93c31-4f11-4611-a535-3797b4746f31",
             "Value": {
                 "id": "5a0769fb-08e3-4add-8222-3bc4eee33581",
-                "resourcePath": "sprites\\Fwosty\\Fwosty.yy",
+                "resourcePath": "sprites\\spr_frosty\\spr_frosty.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -186,7 +186,7 @@
             "Key": "bea3282a-f04e-4afa-a77d-39ff9a7e7328",
             "Value": {
                 "id": "301dcf52-4370-4bb2-8e8d-d928c16c90aa",
-                "resourcePath": "sprites\\sprite4\\sprite4.yy",
+                "resourcePath": "sprites\\spr_background\\spr_background.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -234,7 +234,7 @@
             "Key": "eb7e127a-8d81-42da-850a-60e9664afcc4",
             "Value": {
                 "id": "500c4806-8874-41fc-8a05-246168df2264",
-                "resourcePath": "sprites\\LouisTest\\LouisTest.yy",
+                "resourcePath": "sprites\\spr_wall\\spr_wall.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -242,7 +242,7 @@
             "Key": "eee5a71b-657d-470c-b51a-e24ee7b6260b",
             "Value": {
                 "id": "8ecf1d25-2ba5-4b0f-a961-4d62f0e90936",
-                "resourcePath": "objects\\Elfman_obj\\Elfman_obj.yy",
+                "resourcePath": "objects\\obj_elfman\\obj_elfman.yy",
                 "resourceType": "GMObject"
             }
         },
