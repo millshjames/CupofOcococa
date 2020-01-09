@@ -90,7 +90,7 @@
             "Key": "3a9668eb-9f73-4e39-8742-172b3f61ae88",
             "Value": {
                 "id": "5bfd0eaf-e064-4397-a216-7a8b8618b1bf",
-                "resourcePath": "objects\\Player\\Player.yy",
+                "resourcePath": "objects\\Player_obj\\Player_obj.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -220,6 +220,14 @@
                 "id": "13c07722-cd55-442c-abba-3e02f03e5de6",
                 "resourcePath": "sprites\\Gumdrop\\Gumdrop.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "eee5a71b-657d-470c-b51a-e24ee7b6260b",
+            "Value": {
+                "id": "8ecf1d25-2ba5-4b0f-a961-4d62f0e90936",
+                "resourcePath": "objects\\Elfman_obj\\Elfman_obj.yy",
+                "resourceType": "GMObject"
             }
         },
         {
