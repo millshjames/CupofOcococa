@@ -1,18 +1,18 @@
 {
-    "id": "eee5a71b-657d-470c-b51a-e24ee7b6260b",
+    "id": "f6c5edd1-8b18-4e8a-a01d-52494d985fcc",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_elfman",
+    "name": "obj_gumdrop",
     "eventList": [
         {
-            "id": "bee3f671-65d3-4fd3-9212-e97172f07d02",
+            "id": "6a7fae1c-48a8-41fa-8f54-ece543751412",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "eee5a71b-657d-470c-b51a-e24ee7b6260b"
+            "m_owner": "f6c5edd1-8b18-4e8a-a01d-52494d985fcc"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "06cb40aa-2652-4370-aa50-17d8ebcd31a2",
+    "spriteId": "e94b6810-beef-4dda-a65e-9169c93143c1",
     "visible": true
 }
