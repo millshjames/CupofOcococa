@@ -151,6 +151,22 @@
             }
         },
         {
+            "Key": "3f6a665f-ae13-48a1-b366-8b930fc8af5d",
+            "Value": {
+                "id": "b4264479-ad78-452d-8544-68c10f9c8207",
+                "resourcePath": "objects\\Snowball_obj\\Snowball_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4c7622b5-44b2-40c1-b6b9-cb4819cb39f4",
+            "Value": {
+                "id": "85a38778-6667-41de-9f5a-7a56706b249b",
+                "resourcePath": "objects\\Snowballspawn_obj\\Snowballspawn_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5556330a-3cbf-463d-8fd6-5a95251c65b0",
             "Value": {
                 "id": "e73269a1-4c68-40a3-b757-3d4cfa75a751",
