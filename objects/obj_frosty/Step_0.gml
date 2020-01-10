@@ -42,3 +42,12 @@ if (place_meeting(x,y+vsp,obj_floor))
 	vsp = 0;
 }
 y = y + vsp;
+
+if (key_right)
+{
+		
+	
+	
+	
+	
+}
