@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "8d5bba19-e664-48c4-82ba-7c7d7df03c0f",
+            "Value": {
+                "id": "6876c187-cf26-48f6-8e30-5aa0e404275b",
+                "resourcePath": "sprites\\spr_Cocoa\\spr_Cocoa.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "94792307-30c3-44fe-a1ca-278281dd25f6",
             "Value": {
                 "id": "ed0cde20-9848-46ca-9898-ef45ee3aecfc",
