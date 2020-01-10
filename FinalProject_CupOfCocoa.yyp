@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "183be3f5-e53b-4149-8c86-b282ee194ddf",
+            "Value": {
+                "id": "9cb8913b-72e2-493b-86e2-eb5492d2d7ea",
+                "resourcePath": "sprites\\spr_snoball\\spr_snoball.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "22bfd9c6-02e7-4733-9722-d6c468a3944b",
             "Value": {
                 "id": "7e9a1435-b33d-4ce3-bfdb-8b28f95d15e0",
@@ -132,6 +140,22 @@
                 "id": "bce60195-75f1-4271-b483-cd886d91f667",
                 "resourcePath": "tilesets\\tileset1\\tileset1.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "3f6a665f-ae13-48a1-b366-8b930fc8af5d",
+            "Value": {
+                "id": "b4264479-ad78-452d-8544-68c10f9c8207",
+                "resourcePath": "objects\\Snowball_obj\\Snowball_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4c7622b5-44b2-40c1-b6b9-cb4819cb39f4",
+            "Value": {
+                "id": "85a38778-6667-41de-9f5a-7a56706b249b",
+                "resourcePath": "objects\\Snowballspawn_obj\\Snowballspawn_obj.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -348,6 +372,14 @@
                 "id": "57d52428-68f5-4942-a777-562c29fda148",
                 "resourcePath": "sprites\\spr_title\\spr_title.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fe742b33-51f9-4a8f-a77c-f35ab121f4ed",
+            "Value": {
+                "id": "021c0c7b-b2d3-47ac-b18a-532a272dd810",
+                "resourcePath": "objects\\Owl_Object\\Owl_Object.yy",
+                "resourceType": "GMObject"
             }
         },
         {
