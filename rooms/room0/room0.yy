@@ -31,7 +31,7 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRTileLayer",
             "prev_tileheight": 768,
-            "prev_tilewidth": 1170,
+            "prev_tilewidth": 267,
             "mvc": "1.0",
             "tiles": {
                 "SerialiseData": null,

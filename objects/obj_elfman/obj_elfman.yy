@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_elfman",
     "eventList": [
-        
+        {
+            "id": "bee3f671-65d3-4fd3-9212-e97172f07d02",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "eee5a71b-657d-470c-b51a-e24ee7b6260b"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
