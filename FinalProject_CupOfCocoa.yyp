@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "183be3f5-e53b-4149-8c86-b282ee194ddf",
+            "Value": {
+                "id": "9cb8913b-72e2-493b-86e2-eb5492d2d7ea",
+                "resourcePath": "sprites\\spr_snoball\\spr_snoball.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "22bfd9c6-02e7-4733-9722-d6c468a3944b",
             "Value": {
                 "id": "7e9a1435-b33d-4ce3-bfdb-8b28f95d15e0",
