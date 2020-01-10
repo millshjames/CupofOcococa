@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "96ab063d-0980-44c6-8869-84249e836631",
+            "Value": {
+                "id": "a4db4049-149c-40d3-aebe-dba33a4fd56f",
+                "resourcePath": "objects\\obj_Cocoa\\obj_Cocoa.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9d68b382-73ac-4d2c-9260-4d3d4841b974",
             "Value": {
                 "id": "9d1e68d8-e109-41d3-95af-19a2f37d1dbf",
