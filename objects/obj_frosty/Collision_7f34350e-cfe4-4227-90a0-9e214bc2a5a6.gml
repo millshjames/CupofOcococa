@@ -1,0 +1,1 @@
+walksp = walksp - 2
