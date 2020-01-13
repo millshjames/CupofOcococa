@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "2b4ccfa9-5805-4418-838d-ddfbe0795f16",
+            "Value": {
+                "id": "9090f6fe-6edd-4d37-9241-657a351e9cdf",
+                "resourcePath": "rooms\\Winscreen\\Winscreen.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "2c93819e-4d8c-42c0-88f3-b840bd0ac1cd",
             "Value": {
                 "id": "ac978299-646e-4eba-8cad-392b1039dc99",
@@ -124,14 +132,6 @@
                 "id": "f4b5e8a6-092e-47a1-bf47-7d6ba0d7b675",
                 "resourcePath": "views\\30706986-85f1-48c8-8c0f-24f18cb65687.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "3a9668eb-9f73-4e39-8742-172b3f61ae88",
-            "Value": {
-                "id": "5bfd0eaf-e064-4397-a216-7a8b8618b1bf",
-                "resourcePath": "objects\\obj_player\\obj_player.yy",
-                "resourceType": "GMObject"
             }
         },
         {
