@@ -1,1 +1,1 @@
-
+wallspeed = 1
