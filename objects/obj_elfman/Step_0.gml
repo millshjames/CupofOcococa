@@ -17,3 +17,4 @@ else
 {
 	image_xscale = 1;	
 }
+
