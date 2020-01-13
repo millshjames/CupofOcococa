@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "7dea3034-d638-4727-b5ec-59ab3dfeda12",
+            "Value": {
+                "id": "32351dca-a2e0-4cf7-abef-4b89bfcc06b9",
+                "resourcePath": "sprites\\spt_movingplatform\\spt_movingplatform.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8d5bba19-e664-48c4-82ba-7c7d7df03c0f",
             "Value": {
                 "id": "6876c187-cf26-48f6-8e30-5aa0e404275b",
