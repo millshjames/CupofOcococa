@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "520b9d04-31fa-4b44-8f3c-c26a002663df",
+            "Value": {
+                "id": "37ad374a-61d9-4c12-ac33-489304fd1538",
+                "resourcePath": "objects\\obj_titlefrosty\\obj_titlefrosty.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5556330a-3cbf-463d-8fd6-5a95251c65b0",
             "Value": {
                 "id": "e73269a1-4c68-40a3-b757-3d4cfa75a751",
