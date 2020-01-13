@@ -24,7 +24,7 @@ if (place_meeting(x,y+1,obj_floor )) && (key_jump)
 //horizontal collision
 if (place_meeting(x+hsp,y,obj_floor))
 {
-	while (!place_meeting(x+sign(hsp),y,obj_floor))
+	while (!place_meeting(x+sign(hsp),y,obj_floor ))
 	{
 		x = x + sign(hsp);
 	}
