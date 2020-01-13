@@ -58,11 +58,6 @@ y = y + vsp;
 
 
 
-if (place_meeting(x,y+1,MovingPlatform )) && (key_jump)
-{
-	vsp = -10;
-	
-}
 
 
 
