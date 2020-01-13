@@ -1,2 +1,3 @@
+
 global.elfspd = 1.5;
-global.elfcounter = 0;
+//global.elfcounter set in obj_floor
