@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "86cdc27b-c5a6-4139-8617-e33eb7840bac",
+            "Value": {
+                "id": "c03efed3-4e12-42da-b01c-ecc633fd80d8",
+                "resourcePath": "objects\\obj_boom\\obj_boom.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8d5bba19-e664-48c4-82ba-7c7d7df03c0f",
             "Value": {
                 "id": "6876c187-cf26-48f6-8e30-5aa0e404275b",
