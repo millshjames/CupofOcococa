@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "8e28f494-4a01-4d7f-91be-a4ca5411a11a",
+            "Value": {
+                "id": "c51086e7-db3b-4a8e-9822-fe8fd899a7f1",
+                "resourcePath": "sprites\\shit\\shit.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "94792307-30c3-44fe-a1ca-278281dd25f6",
             "Value": {
                 "id": "ed0cde20-9848-46ca-9898-ef45ee3aecfc",
