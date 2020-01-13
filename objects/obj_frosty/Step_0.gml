@@ -51,11 +51,13 @@ if (place_meeting(x,y+vsp,obj_floor))
 }
 y = y + vsp;
 
-if (key_right)
-{
-		
-	
-	
-	
-	
-}
+
+
+
+
+
+
+
+
+
+
