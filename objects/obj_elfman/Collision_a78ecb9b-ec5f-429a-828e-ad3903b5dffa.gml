@@ -1,2 +1,2 @@
-instance_destroy()
-instance_destroy(obj_frosty)
+instance_destroy();
+instance_destroy(obj_frosty);
