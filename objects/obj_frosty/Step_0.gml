@@ -9,6 +9,14 @@ key_jump	=  keyboard_check_pressed(ord("W"))	||	keyboard_check_pressed(vk_up)
 
 //calculate player movement
 var move = key_right - key_left;
+//james did the direction facing code
+if( move < 0) {
+	image_xscale = -1;	
+}
+if (move > 0) {
+	image_xscale = 1;
+}
+//if the facing direction is left, face left, right face right.
 
 hsp = move * walksp
 
@@ -24,7 +32,7 @@ if (place_meeting(x,y+1,obj_floor )) && (key_jump)
 //horizontal collision
 if (place_meeting(x+hsp,y,obj_floor))
 {
-	while (!place_meeting(x+sign(hsp),y,obj_floor))
+	while (!place_meeting(x+sign(hsp),y,obj_floor ))
 	{
 		x = x + sign(hsp);
 	}
