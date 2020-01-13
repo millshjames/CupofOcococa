@@ -13,14 +13,17 @@ else
 }
 //by subtracting the x cords of the player and the elf, you can see if it is positive or negative
 // if it is negative face left, if it is positive right. 
-faceing = obj_frosty.x - obj_elfman.x;
-if(faceing >= 0)
+if(instance_exists(obj_frosty))
 {
+	faceing = obj_frosty.x - obj_elfman.x;
+	if(faceing >= 0)
+	{
 	image_xscale = -1;
-}
+	}
 
-else
-{
+	else
+	{
 	image_xscale = 1;	
+	}
 }
 
