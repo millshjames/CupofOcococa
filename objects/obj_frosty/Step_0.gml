@@ -9,6 +9,14 @@ key_jump	=  keyboard_check_pressed(ord("W"))	||	keyboard_check_pressed(vk_up)
 
 //calculate player movement
 var move = key_right - key_left;
+//james did the direction facing code
+if( move < 0) {
+	image_xscale = -1;	
+}
+if (move > 0) {
+	image_xscale = 1;
+}
+//if the facing direction is left, face left, right face right.
 
 hsp = move * walksp
 
