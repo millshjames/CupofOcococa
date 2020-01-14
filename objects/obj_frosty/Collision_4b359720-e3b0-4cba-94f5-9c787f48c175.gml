@@ -22,7 +22,7 @@ hsp = move * walksp
 
 vsp = vsp + grv
 
-if (place_meeting(x,y+1,obj_floor )) && (key_jump)
+if (place_meeting(x,y+1,MovingPlatform )) && (key_jump)
 {
 	vsp = -10;
 	
@@ -30,9 +30,9 @@ if (place_meeting(x,y+1,obj_floor )) && (key_jump)
 
 
 //horizontal collision
-if (place_meeting(x+hsp,y,obj_floor))
+if (place_meeting(x+hsp,y,MovingPlatform))
 {
-	while (!place_meeting(x+sign(hsp),y,obj_floor ))
+	while (!place_meeting(x+sign(hsp),y,MovingPlatform ))
 	{
 		x = x + sign(hsp);
 	}
@@ -41,33 +41,12 @@ if (place_meeting(x+hsp,y,obj_floor))
 x = x + hsp;
 
 //vertical collision
-if (place_meeting(x,y+vsp,obj_floor))
+if (place_meeting(x,y+vsp,MovingPlatform))
 {
-	while (!place_meeting(x,y+sign(vsp),obj_floor))
+	while (!place_meeting(x,y+sign(vsp),MovingPlatform))
 	{
 		y = y + sign(vsp);
 	}
 	vsp = 0;
 }
 y = y + vsp;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
