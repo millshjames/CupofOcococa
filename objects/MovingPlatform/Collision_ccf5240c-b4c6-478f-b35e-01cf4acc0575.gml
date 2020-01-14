@@ -1,1 +1,2 @@
-move_towards_point(512,608,1);
+
+move_towards_point(1408,288,1);
