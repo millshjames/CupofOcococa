@@ -1,0 +1,1 @@
+move_towards_point(512,608,1);
