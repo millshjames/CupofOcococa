@@ -1,1 +1,0 @@
-global.language = 0;
