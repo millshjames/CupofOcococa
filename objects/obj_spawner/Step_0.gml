@@ -1,4 +1,4 @@
-if (mouse_check_button_released(mb_left))
+if (keyboard_check_pressed(vk_space))
 {
     var str;
     switch (irandom(4))
