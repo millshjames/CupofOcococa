@@ -1,0 +1,1 @@
+movingright = true
