@@ -4,7 +4,6 @@ if (time < text_length)
     time += spd;
     print = string_copy(text,0,time)
 }
-
 ///Render textbox & text
 draw_set_alpha(alpha);
 if (alpha < 1) alpha += spd/10; else alpha = 1;

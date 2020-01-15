@@ -6,6 +6,7 @@ with (txt)
     padding = 16;
     maxlength = __view_get( e__VW.WView, 0 );
     text = argument0;
+	show_debug_message("scr_text:"+text)
     spd = argument1;
     font = fnt;
     

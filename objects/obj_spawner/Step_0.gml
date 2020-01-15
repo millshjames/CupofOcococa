@@ -11,5 +11,6 @@ if (keyboard_check_pressed(vk_space))
 		case 5: str = scr_string(5);break;
         default: str = scr_string(6);break;
     }
+	show_debug_message("|"+str+"|")
     scr_text(str,0.2,mouse_x,mouse_y);
 }

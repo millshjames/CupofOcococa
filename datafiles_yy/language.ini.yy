@@ -1,5 +1,5 @@
 {
-    "id": "b1a95226-dddc-4144-9a39-8bb53af7d2cb",
+    "id": "6a34a4d2-7dbe-44be-9cc0-f4075639c9ee",
     "modelName": "GMIncludedFile",
     "mvc": "1.0",
     "name": "language.ini",
