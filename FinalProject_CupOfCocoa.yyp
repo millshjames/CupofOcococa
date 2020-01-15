@@ -471,6 +471,22 @@
             }
         },
         {
+            "Key": "d5ecfd6f-b6b7-4c5c-83fd-c7b513b073dd",
+            "Value": {
+                "id": "dca404e7-1f28-4719-8ff8-dbdd5afb120c",
+                "resourcePath": "objects\\iciclespawner\\iciclespawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "da388304-9112-4a82-8973-4a168d5a746c",
+            "Value": {
+                "id": "6cc12b42-bf19-4f31-a02c-ee287d125c95",
+                "resourcePath": "objects\\obj_Icicle\\obj_Icicle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dd45173c-ab42-4515-ade9-d9ee2a289658",
             "Value": {
                 "id": "c77c154e-62d0-4ecf-8e58-65fec23b292c",

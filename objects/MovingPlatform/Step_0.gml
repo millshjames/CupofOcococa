@@ -4,6 +4,11 @@ if (movingright = true)
 	if (x = 1408 and y = 288)
 	{
 		movingright = false
+		if (movingright = false)
+		{
+			move_towards_point(512,608,1)	
+			
+		}
 		
 		
 	}
