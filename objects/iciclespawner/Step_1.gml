@@ -2,8 +2,19 @@ if (obj_frosty.hp <=0)
 		{
 				instance_destroy()
 				
+				
 		}
-firingdelay1 = firingdelay1 - 1
+if (Owl_Object.hp2 < 1)
+{
+		instance_destroy()
+		instance_destroy(Owl_Object)
+	
+	
+	
+	
+}
+else
+{firingdelay1 = firingdelay1 - 1
 if (Owl_Object.hp2 == 1 and (firingdelay1 <0))
 { 
 	recoil1 = 4
@@ -15,4 +26,5 @@ if (Owl_Object.hp2 == 1 and (firingdelay1 <0))
 		
 		image_angle = direction}
 		
+}
 }
