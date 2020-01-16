@@ -1,10 +1,12 @@
-if (obj_frosty.hp <=0)
+if(instance_exists(obj_frosty)){
+	if (obj_frosty.hp <=0)
 		{
 			room_goto(Title_Screen);	
 				
 				
 				
 		}
+}
 if (Owl_Object.hp2 < 1)
 {
 		instance_destroy()
@@ -16,6 +18,7 @@ if (Owl_Object.hp2 < 1)
 }
 else
 {firingdelay1 = firingdelay1 - 1
+	if(instance_exists(obj_frosty)){
 if (Owl_Object.hp2 == 1 and (firingdelay1 <0))
 { 
 	recoil1 = 4
@@ -27,5 +30,6 @@ if (Owl_Object.hp2 == 1 and (firingdelay1 <0))
 		
 		image_angle = direction}
 		
+}
 }
 }
