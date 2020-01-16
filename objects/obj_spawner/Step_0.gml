@@ -1,4 +1,5 @@
-if (keyboard_check_pressed(vk_space))
+timer = timer -1;
+if (timer == 0)
 {
     var str;
     switch (irandom(4))
@@ -13,4 +14,5 @@ if (keyboard_check_pressed(vk_space))
     }
 	show_debug_message("|"+str+"|")
     scr_text(str,0.2,mouse_x,mouse_y);
+	timer = 3* room_speed;
 }

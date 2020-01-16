@@ -1,7 +1,9 @@
+if(instance_exists(obj_frosty)){
 x = obj_frosty.x
 y = obj_frosty.y
 
 image_angle = point_direction(x,y,mouse_x,mouse_y)
+}
 firingdelay = firingdelay - 1
 recoil = max (0,recoil-1)
 if (mouse_check_button(mb_left)) and (firingdelay < 0)
