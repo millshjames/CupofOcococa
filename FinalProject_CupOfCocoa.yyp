@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "311e2a6d-5de0-4905-b73b-00b5c93a377f",
+            "Value": {
+                "id": "a99b18f6-fdfa-4bc6-aa25-1d74e98e5f9b",
+                "resourcePath": "objects\\Megaebicboombox\\Megaebicboombox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "39fd15f9-70aa-4ea1-bd68-e852e28dfef0",
             "Value": {
                 "id": "468b6352-d589-45f2-99dc-8d87ffb41856",
@@ -500,6 +508,14 @@
                 "id": "73288622-a9df-400d-8662-3125ba2adbcd",
                 "resourcePath": "sprites\\sprite13\\sprite13.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e286fd38-34c4-48b8-921b-6de578421432",
+            "Value": {
+                "id": "8f4709f1-39b6-47af-be5d-b883d8bffead",
+                "resourcePath": "sounds\\wintergamaegamaejams\\wintergamaegamaejams.yy",
+                "resourceType": "GMSound"
             }
         },
         {
