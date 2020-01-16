@@ -1,6 +1,7 @@
 if (obj_frosty.hp <=0)
 		{
-				instance_destroy()
+			room_goto(Title_Screen);	
+				
 				
 				
 		}
