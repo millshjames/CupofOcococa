@@ -8,10 +8,6 @@ if (Owl_Object.hp2 < 1)
 {
 		instance_destroy()
 		instance_destroy(Owl_Object)
-	
-	
-	
-	
 }
 firingdelay1 = firingdelay1 - 1
 if ((firingdelay1 <0))
@@ -29,3 +25,4 @@ if ((firingdelay1 <0))
 		
 
 }
+

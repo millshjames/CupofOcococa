@@ -1,2 +1,2 @@
-firingdelay = 0
+firingdelay = 3
 recoil = 0
