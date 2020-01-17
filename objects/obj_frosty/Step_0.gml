@@ -51,7 +51,14 @@ if (place_meeting(x,y+vsp,obj_floor))
 }
 y = y + vsp;
 
-
+//this should destroy object boom 1 second after it is created. 
+timerr = timerr - 1;
+//if(instance_exists(obj_boom)) {
+	
+	if(timerr == 0) {
+		instance_destroy(obj_boom);	
+	}
+//}
 
 
 
