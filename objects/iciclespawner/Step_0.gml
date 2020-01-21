@@ -1,3 +1,4 @@
+// same as other spawner code but for the owl and creates icicles incstead of snowballs. Weird glitch where icicles spawn in the sky instead of on the owl.
 x = Owl_Object
 		y = Owl_Object
 	if (obj_frosty.hp <=0)
